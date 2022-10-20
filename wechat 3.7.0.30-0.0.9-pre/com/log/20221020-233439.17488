@@ -1,0 +1,26 @@
+Log file created at: 2022/10/20 23:34:39
+Running on machine: HOME-1804
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20221020 23:34:39.134703 23220 dllmain.cpp:13] Robot Start, isWxLogin: 1, pid: 17488
+I20221020 23:34:40.037631 17908 ReceiveMessage.cpp:147] msgid: 1364591914016031430 send begin.
+I20221020 23:34:40.038631 17908 ReceiveMessage.cpp:148] type: 3, sender: kerrygao2000
+I20221020 23:34:40.038631 17908 ReceiveMessage.cpp:149] content size: 1622
+I20221020 23:34:42.071961 17908 ReceiveMessage.cpp:166] msgid: 1364591914016031430 send end.
+I20221020 23:34:42.792171 23268 ReceiveMessage.cpp:147] msgid: 8511216383500191704 send begin.
+I20221020 23:34:42.792171 23268 ReceiveMessage.cpp:148] type: 51, sender: li_lovelife
+I20221020 23:34:42.792171 23268 ReceiveMessage.cpp:149] content size: 2602
+I20221020 23:34:44.816157 23268 ReceiveMessage.cpp:166] msgid: 8511216383500191704 send end.
+I20221020 23:34:47.413285 23472 ReceiveMessage.cpp:147] msgid: 6840720640461691308 send begin.
+I20221020 23:34:47.414288 23472 ReceiveMessage.cpp:148] type: 1, sender: kerrygao2000
+I20221020 23:34:47.414288 23472 ReceiveMessage.cpp:149] content size: 447
+I20221020 23:34:49.444290 23472 ReceiveMessage.cpp:166] msgid: 6840720640461691308 send end.
+I20221020 23:34:56.479643 22584 ReceiveMessage.cpp:147] msgid: 3565914043101954293 send begin.
+I20221020 23:34:56.479643 22584 ReceiveMessage.cpp:148] type: 1, sender: kerrygao2000
+I20221020 23:34:56.479643 22584 ReceiveMessage.cpp:149] content size: 447
+I20221020 23:34:58.519677 22584 ReceiveMessage.cpp:166] msgid: 3565914043101954293 send end.
+I20221020 23:35:01.583561 21908 ReceiveMessage.cpp:147] msgid: 3148815608073743624 send begin.
+I20221020 23:35:01.583561 21908 ReceiveMessage.cpp:148] type: 1, sender: wxid_95zqr6q3kak631
+I20221020 23:35:01.583561 21908 ReceiveMessage.cpp:149] content size: 440
+I20221020 23:35:03.608573 21908 ReceiveMessage.cpp:166] msgid: 3148815608073743624 send end.
+I20221020 23:35:05.387446 12448 dllmain.cpp:32] Robot Stop

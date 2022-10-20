@@ -1,0 +1,2 @@
+
+.\CWeChatRobot.exe /regserver

@@ -1,0 +1,62 @@
+Log file created at: 2022/10/20 23:30:40
+Running on machine: HOME-1804
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20221020 23:30:40.680152 20908 dllmain.cpp:13] Robot Start, isWxLogin: 1, pid: 14728
+I20221020 23:30:43.327841  3536 ReceiveMessage.cpp:147] msgid: 8615870135889723715 send begin.
+I20221020 23:30:43.327841  3536 ReceiveMessage.cpp:148] type: 1, sender: kerrygao2000
+I20221020 23:30:43.327841  3536 ReceiveMessage.cpp:149] content size: 435
+I20221020 23:30:44.595197 22044 ReceiveMessage.cpp:147] msgid: 8032736316746786426 send begin.
+I20221020 23:30:44.595197 22044 ReceiveMessage.cpp:148] type: 1, sender: wxid_2114831146122
+I20221020 23:30:44.595197 22044 ReceiveMessage.cpp:149] content size: 426
+I20221020 23:30:45.362489  3536 ReceiveMessage.cpp:166] msgid: 8615870135889723715 send end.
+I20221020 23:30:46.638198 22044 ReceiveMessage.cpp:166] msgid: 8032736316746786426 send end.
+I20221020 23:30:49.397095 11408 ReceiveMessage.cpp:147] msgid: 1306981964215145859 send begin.
+I20221020 23:30:49.397095 11408 ReceiveMessage.cpp:148] type: 1, sender: wxid_2114831146122
+I20221020 23:30:49.397095 11408 ReceiveMessage.cpp:149] content size: 432
+I20221020 23:30:51.429668 11408 ReceiveMessage.cpp:166] msgid: 1306981964215145859 send end.
+I20221020 23:30:56.349037 22336 ReceiveMessage.cpp:147] msgid: 614991476007108276 send begin.
+I20221020 23:30:56.349037 22336 ReceiveMessage.cpp:148] type: 1, sender: kerrygao2000
+I20221020 23:30:56.349037 22336 ReceiveMessage.cpp:149] content size: 440
+I20221020 23:30:58.381042 22336 ReceiveMessage.cpp:166] msgid: 614991476007108276 send end.
+I20221020 23:31:07.136858   456 ReceiveMessage.cpp:147] msgid: 5066923167313605524 send begin.
+I20221020 23:31:07.136858   456 ReceiveMessage.cpp:148] type: 1, sender: wxid_2114831146122
+I20221020 23:31:07.136858   456 ReceiveMessage.cpp:149] content size: 450
+I20221020 23:31:07.596307 21664 ReceiveMessage.cpp:147] msgid: 8383243434234858383 send begin.
+I20221020 23:31:07.596307 21664 ReceiveMessage.cpp:148] type: 1, sender: wxid_16qfx56lzpa922
+I20221020 23:31:07.596307 21664 ReceiveMessage.cpp:149] content size: 436
+I20221020 23:31:09.173004   456 ReceiveMessage.cpp:166] msgid: 5066923167313605524 send end.
+I20221020 23:31:09.630481 21664 ReceiveMessage.cpp:166] msgid: 8383243434234858383 send end.
+I20221020 23:31:12.390599  4544 ReceiveMessage.cpp:147] msgid: 7413047311393868106 send begin.
+I20221020 23:31:12.391597  4544 ReceiveMessage.cpp:148] type: 1, sender: wxid_16qfx56lzpa922
+I20221020 23:31:12.391597  4544 ReceiveMessage.cpp:149] content size: 433
+I20221020 23:31:14.422648  4544 ReceiveMessage.cpp:166] msgid: 7413047311393868106 send end.
+I20221020 23:31:14.952668 14560 ReceiveMessage.cpp:147] msgid: 4115227733002316737 send begin.
+I20221020 23:31:14.952668 14560 ReceiveMessage.cpp:148] type: 1, sender: kerrygao2000
+I20221020 23:31:14.952668 14560 ReceiveMessage.cpp:149] content size: 441
+I20221020 23:31:16.982769 14560 ReceiveMessage.cpp:166] msgid: 4115227733002316737 send end.
+I20221020 23:31:18.550869 14008 ReceiveMessage.cpp:147] msgid: 1063560240398355620 send begin.
+I20221020 23:31:18.550869 14008 ReceiveMessage.cpp:148] type: 1, sender: wxid_16qfx56lzpa922
+I20221020 23:31:18.550869 14008 ReceiveMessage.cpp:149] content size: 433
+I20221020 23:31:19.182507  3904 ReceiveMessage.cpp:147] msgid: 2782670683248648933 send begin.
+I20221020 23:31:19.182507  3904 ReceiveMessage.cpp:148] type: 1, sender: kerrygao2000
+I20221020 23:31:19.182507  3904 ReceiveMessage.cpp:149] content size: 432
+I20221020 23:31:20.583981 14008 ReceiveMessage.cpp:166] msgid: 1063560240398355620 send end.
+I20221020 23:31:21.214061  3904 ReceiveMessage.cpp:166] msgid: 2782670683248648933 send end.
+I20221020 23:31:29.795058 10184 ReceiveMessage.cpp:147] msgid: 8292509997781534287 send begin.
+I20221020 23:31:29.795058 10184 ReceiveMessage.cpp:148] type: 1, sender: wxid_2114831146122
+I20221020 23:31:29.795058 10184 ReceiveMessage.cpp:149] content size: 438
+I20221020 23:31:30.799053 20328 ReceiveMessage.cpp:147] msgid: 9068513849228404010 send begin.
+I20221020 23:31:30.799053 20328 ReceiveMessage.cpp:148] type: 1, sender: kerrygao2000
+I20221020 23:31:30.799053 20328 ReceiveMessage.cpp:149] content size: 435
+I20221020 23:31:31.815488 10184 ReceiveMessage.cpp:166] msgid: 8292509997781534287 send end.
+I20221020 23:31:32.823026 20328 ReceiveMessage.cpp:166] msgid: 9068513849228404010 send end.
+I20221020 23:31:33.511895 21596 ReceiveMessage.cpp:147] msgid: 4482421003171108972 send begin.
+I20221020 23:31:33.511895 21596 ReceiveMessage.cpp:148] type: 1, sender: wxid_2114831146122
+I20221020 23:31:33.511895 21596 ReceiveMessage.cpp:149] content size: 428
+I20221020 23:31:35.543623 21596 ReceiveMessage.cpp:166] msgid: 4482421003171108972 send end.
+I20221020 23:31:38.313967 19300 ReceiveMessage.cpp:147] msgid: 5958094976200496726 send begin.
+I20221020 23:31:38.313967 19300 ReceiveMessage.cpp:148] type: 1, sender: wxid_2114831146122
+I20221020 23:31:38.313967 19300 ReceiveMessage.cpp:149] content size: 434
+I20221020 23:31:40.348018 19300 ReceiveMessage.cpp:166] msgid: 5958094976200496726 send end.
+I20221020 23:31:56.730283 22804 dllmain.cpp:32] Robot Stop

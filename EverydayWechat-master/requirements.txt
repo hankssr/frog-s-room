@@ -1,0 +1,7 @@
+ pip install itchat==1.3.10 -i http://pypi.doubanio.com/simple/ --trusted-host pypi.doubanio.com
+requests
+beautifulsoup4
+pip install apscheduler -i http://pypi.doubanio.com/simple/ --trusted-host pypi.doubanio.com
+pip install pymongo -i http://pypi.doubanio.com/simple/ --trusted-host pypi.doubanio.com 
+pip install pyyaml -i http://pypi.doubanio.com/simple/ --trusted-host pypi.doubanio.com pip install pyyaml -i http://pypi.doubanio.com/simple/ --trusted-host pypi.doubanio.com 
+pip install lxml -i http://pypi.doubanio.com/simple/ --trusted-host pypi.doubanio.com 
